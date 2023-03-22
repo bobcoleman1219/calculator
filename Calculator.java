@@ -5,8 +5,10 @@ public class Calculator {
 		return a + b;
 	}
 	
+
 	public int addition (double a, double b) {
 		return a + b;
+
 	}
 
 } 
